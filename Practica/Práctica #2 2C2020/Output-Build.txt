@@ -1,0 +1,6 @@
+﻿Build started at 02:22 PM...
+1>------ Build started: Project: Práctica #2 2C2020, Configuration: Debug x64 ------
+1>Práctica #2 2C2020.cpp
+1>Práctica #2 2C2020.vcxproj -> C:\Users\David\source\repos\Práctica #2 2C2020\x64\Debug\Práctica #2 2C2020.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 02:22 PM and took 00.764 seconds ==========

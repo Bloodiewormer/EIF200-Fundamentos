@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\David\\source\\repos\\Pr\u00E1ctica #2 1C2020\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76F59035-BA5C-41A7-A32A-21D12EE39530}|Pr\u00E1ctica #1 1C2020\\Pr\u00E1ctica #1 1C2020.vcxproj|C:\\Users\\David\\source\\repos\\Pr\u00E1ctica #2 1C2020\\Pr\u00E1ctica #1 1C2020\\Pr\u00E1ctica #1 1C2020.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{76F59035-BA5C-41A7-A32A-21D12EE39530}|Pr\u00E1ctica #1 1C2020\\Pr\u00E1ctica #1 1C2020.vcxproj|solutionrelative:Pr\u00E1ctica #1 1C2020\\Pr\u00E1ctica #1 1C2020.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pr\u00E1ctica #1 1C2020.cpp",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\Pr\u00E1ctica #2 1C2020\\Pr\u00E1ctica #1 1C2020\\Pr\u00E1ctica #1 1C2020.cpp",
+              "RelativeDocumentMoniker": "Pr\u00E1ctica #1 1C2020\\Pr\u00E1ctica #1 1C2020.cpp",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\Pr\u00E1ctica #2 1C2020\\Pr\u00E1ctica #1 1C2020\\Pr\u00E1ctica #1 1C2020.cpp",
+              "RelativeToolTip": "Pr\u00E1ctica #1 1C2020\\Pr\u00E1ctica #1 1C2020.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-07T01:44:41.967Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
